@@ -1,6 +1,5 @@
 # Hello there! 💫
-My name is Tove. <br>
-I am currently studying my second year of web development at Linnaeus University. <br>
+My name is Tove and I'm currently studying my second year of web development at Linnaeus University. <br>
 
 
 # 💻 Tech Stack:
