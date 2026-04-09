@@ -1,6 +1,6 @@
 # Hey, I'm Tove! 👾
  
-Second year Web Development student at Linnaeus University. I've always been drawn to tech, especially video games. In my free time I tinker with pixel art and dream about building my own game someday. Maybe it'll happen.
+Second year Web Development student at Linnaeus University. I've always been drawn to tech, especially video games. In my free time I tinker with pixel art and dream about building my own game someday.
  
 ---
  
