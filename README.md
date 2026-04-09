@@ -1,8 +1,6 @@
 # Hey, I'm Tove! 👾
  
-Second year Web Development student at Linnaeus University. I've always been drawn to tech, especially video games. Somewhere along the way I got especially hooked on what happens under the hood. Backend, databases, APIs, how data flows between systems. Can't fully explain why, but it's pretty cool. 🤷
- 
-In my free time I tinker with pixel art and dream about building my own game someday. Maybe it'll happen.
+Second year Web Development student at Linnaeus University. I've always been drawn to tech, especially video games. In my free time I tinker with pixel art and dream about building my own game someday. Maybe it'll happen.
  
 ---
  
